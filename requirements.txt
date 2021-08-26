@@ -29,7 +29,6 @@ eventlet==0.25.1
 filelock==3.0.12
 flake8==3.8.4
 future==0.18.2
-greenlet==0.4.15
 gunicorn==20.0.4
 idna==2.10
 isort==5.5.3
